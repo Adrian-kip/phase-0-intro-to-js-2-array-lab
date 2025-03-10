@@ -1,4 +1,4 @@
-let cats = ["Milo", "Otis", "Garfield"]; // Declare the array here
+let cats = ["Milo", "Otis", "Garfield"];
 
 function destructivelyAppendCat(name) {
   cats.push(name);
